@@ -1,2 +1,9 @@
-# higurashi-launcher
-Very basic launcher for the core 8 Higurashi Chapters
+# Higurashi Launcher
+
+Very basic launcher for the core 8 Higurashi Chapters, made purely to avoid cluttering my Playnite library
+
+Amazing features such as:
+- Modern or Classic Posters!
+- Light Mode or Dark Mode!!!
+
+Might update with more functionality/the rest of the series once I get around to it
