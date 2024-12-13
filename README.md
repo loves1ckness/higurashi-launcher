@@ -7,3 +7,6 @@ Amazing features such as:
 - Light Mode or Dark Mode!!!
 
 Might update with more functionality/the rest of the series once I get around to it
+
+KNOWN ISSUES
+- launching directly can cause the game's audio to not properly initialize, this does not happen using steam mode, presumed engine issue
